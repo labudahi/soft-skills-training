@@ -23,11 +23,11 @@ Curiosity does not have to be code- or industry-related. A demonstrated curiosit
 - How do you keep up to date with tech?
 - Do you have any side projects or contributions to open source?
 
-🤦‍♂️ Strong No
+🙅‍ Strong No
 
 - The candidate demonstrates no interest in \$COMPANY, or in the world around them, and provides no evidence that they want to learn more.
 
-🙅🏿‍♂️ No
+👎 No
 
 - The candidate isn’t able to describe any self-directed learning or meaningful areas of our product/company that they are curious about.
 
@@ -41,7 +41,7 @@ Curiosity does not have to be code- or industry-related. A demonstrated curiosit
 
 - The candidate has done a little self-directed learning on a topic that interests them.
 
-👍 Yes
+👍🏾 Yes
 
 - The candidate asks insightful questions about \$COMPANY.
 
@@ -69,7 +69,7 @@ It will typically be hard to make a call on this in a purely technical interview
 
 - Tell me about a major mistake you made, and what you did to correct it.
 
-🤦‍♂️ Strong No
+🙅‍ Strong No
 
 - The candidate demonstrates a significant lack of self-awareness and of introspection.
 
@@ -79,7 +79,7 @@ It will typically be hard to make a call on this in a purely technical interview
 
 - The candidate demonstrates no interest in receiving feedback.
 
-🙅🏿‍♂️ No
+👎 No
 
 - When asked to identify opportunities for improvement, the candidate gives false-modest answers like “sometimes I work too hard.”
 
@@ -97,7 +97,7 @@ It will typically be hard to make a call on this in a purely technical interview
 
 - The candidate is unable to articulate a time when receiving feedback, or self-analysis, helped them become better.
 
-👍 Yes
+👍🏾 Yes
 
 - "The candidate describes a time when they received critical feedback, and were able to integrate it to become better.
 
@@ -130,7 +130,7 @@ Some people are naturally less communicative than others when speaking to strang
 - Tell me about the last time your workday ended before you were able to get everything done.
 - Tell me about a time you had to raise an uncomfortable issue with your boss.
 
-🤦‍♂️ Strong No
+🙅‍ Strong No
 
 - The candidate does not ask any questions, and doesn’t listen. They solve the wrong problem as a result.
 
@@ -138,7 +138,7 @@ Some people are naturally less communicative than others when speaking to strang
 
 - The candidate cannot clearly communicate their intentions or thought process, even after significant encouragement and prodding.
 
-🙅🏿‍♂️ No
+👎 No
 
 - The candidate’s intent is frequently unclear. When writing code, the interviewer frequently finds themselves in a position where they cannot in good faith say what the candidate is attempting to do, or why. The candidate cuts the interviewer off frequently.
 
@@ -158,7 +158,7 @@ Some people are naturally less communicative than others when speaking to strang
 
 - They are unable to describe a time where they convinced someone of something, or used language to influence something.
 
-👍 Yes
+👍🏾 Yes
 
 - When solving a problem, the candidate asks questions to clarify needs, and is able to describe an approach at a high-level. They describe how their code works, unprompted. They are able to communicate complex topics to a layperson.
 
@@ -182,7 +182,7 @@ If a candidate has worked exclusively in very small teams, much of this might be
 
 - Tell me about a time you knew you were right, but still had to follow directions or guidelines.
 
-🤦‍♂️ Strong No
+🙅‍ Strong No
 
 - The candidate describes themselves as a loner, doing their best work alone.
 
@@ -192,7 +192,7 @@ If a candidate has worked exclusively in very small teams, much of this might be
 
 - The candidate describes people with whom they disagree as, for example, “stupid”
 
-🙅🏿‍♂️ No
+👎 No
 
 - The candidate describes successes as “I”, but describes failures as “we”.
 
@@ -212,7 +212,7 @@ If a candidate has worked exclusively in very small teams, much of this might be
 
 - They ask some questions, though conversation on a problem falls short of a meaningful dialog.
 
-👍 Yes
+👍🏾 Yes
 
 - The candidate is happy working with others to achieve an outcome.
 
